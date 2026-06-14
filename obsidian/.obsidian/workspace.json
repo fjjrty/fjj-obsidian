@@ -11,10 +11,14 @@
             "id": "f70da30dd4abb41b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "优化表达/test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "test"
             }
           }
         ]
@@ -152,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "优化表达/test.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "test 的大纲"
             }
           }
         ],
@@ -175,17 +180,19 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f70da30dd4abb41b",
   "lastOpenFiles": [
+    "未命名.base",
+    "优化表达/test.md",
     "优化表达/前端专业表达.md",
     "未命名 1.base",
     "未命名 2.canvas",
     "2026-06-14.md",
     "未命名 1.canvas",
-    "未命名.base",
     "未命名.canvas",
     "优化表达",
     "创建链接.md",
